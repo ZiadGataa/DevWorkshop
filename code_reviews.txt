@@ -1,0 +1,12 @@
+1. The main similarities I found between the two companies is Smaller is better. Keeping code simple and smaller is better even if it means more reviews. 
+The scond similaritiy is dont accept contributions without the code following the minimum standards. The differences I found between the two is that Microsoft speaks more
+a reviewer view and touches on concepts such as tone and how to respectfully tell someone they are wrong which Yelp doesnt touch on. The second difference would be that yelp
+states to pick your reviewer and to also have a primary one which differs from the way Microsoft assigns reviewers.
+
+2. This link is a good code review especially the last comment - https://codereview.stackexchange.com/questions/291356/is-this-a-correct-implementation-of-comparator - 
+this is becuase this user provided in detail review and insight for the question.
+
+3. In the same link is the second comment in which the user dwells on correctness of the code in a useless way stating the code works and not answering the users questions.
+This comment provides little value and doesnt fall under a good code review. I would recommend the same thing another user commented under this person " A yes/no answer to "is this correct" 
+is useless here, since in essence correctness is defined by whether the code produces the correct answer and the CodeReview platform rules already state that the code must work before it 
+can be posted. What we discuss here are the nuances in style. "
